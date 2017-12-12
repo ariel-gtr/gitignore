@@ -1,0 +1,2 @@
+# gitignore
+python with django
